@@ -1,1 +1,2 @@
+This folder will store trained machine learning models (e.g., .pkl, .bin files) used in the NewsBot 2.0 system.
 

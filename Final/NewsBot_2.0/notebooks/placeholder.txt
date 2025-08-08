@@ -1,1 +1,2 @@
+This folder contains development and training Jupyter notebooks used to build and test different parts of the NewsBot 2.0 pipeline.
 

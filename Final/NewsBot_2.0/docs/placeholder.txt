@@ -1,1 +1,2 @@
+This folder will hold documentation deliverables for the final project, including the Technical Documentation and Executive Summary PDFs.
 
